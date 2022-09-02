@@ -12,4 +12,6 @@ Use: python -m doctest -v DocTest.py
 >>> summ( 'Hello', 'Life')
 'HelloLife'
 
+Editedby Arwik
+
 """
